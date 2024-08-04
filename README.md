@@ -1,1 +1,1 @@
-# kanan
+# rock paper scissor project
